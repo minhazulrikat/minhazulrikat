@@ -8,11 +8,10 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=minhazulrikat&color=red)
 
-Skills:Java / BOOTSTRAP / REACT / JS / HTML / CSS
+Skills: JAVA / BOOTSTRAP / REACT.JS / JS / HTML / CSS
 
 </div>
 
-- 🔭 I’m currently Learning on [Hablu Programmer](https://www.hablu-programmer.com/)
 
 - 🌱 I’m currently learning JS, React.js, Next.js
 
