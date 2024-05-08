@@ -61,7 +61,7 @@ Skills: JAVA / BOOTSTRAP / REACT.JS / JS / HTML / CSS
 
 ## Best Repo -
 
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=minhazulrikat&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/minhazulrikat/Java-Project)
+[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=minhazulrikat&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/minhazulrikat/CALCULATOR)
 [![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=minhazulrikat&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/minhazulrikat/100_plus_C_Problems)
 [![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=minhazulrikat&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/minhazulrikat/front_end_projects)
 [![Weblitical](https://github-readme-stats.vercel.app/api/pin/?username=minhazulrikat&repo=weblitical&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/minhazulrikat/weblitical)
