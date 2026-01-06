@@ -1,7 +1,7 @@
 ![I am minhazulrikat](https://github.com/minhazulrikat/minhazulrikat/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm MINHAZUL ISLAM(RIKAT)</h1>
-<h3 align="center">Programmer | Web Designer | Speed Learner</h3>
+<h3 align="center">Programmer | Frontend Web Developer | Speed Learner</h3>
 <h4 align="center">Student of Computer Technology and Learning Web Designing at Hablu Programmer</h4>
 
 <div align="center">
