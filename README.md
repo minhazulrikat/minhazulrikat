@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm MINHAZUL ISLAM(RIKAT)</h1>
 <h3 align="center">Programmer | Frontend Web Developer | Speed Learner</h3>
-<h4 align="center">Jr. Frontend Devloper working at Softvance Delta </h4>
+<h4 align="center">Jr. Frontend Developer working at Softvance Delta </h4>
 
 <div align="center">
 
