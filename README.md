@@ -24,7 +24,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/minhazul-rikat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minhazul-rikat" height="30" width="40" /></a>
-<a href="mailto:minhazulrikat@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="minhazulrikat" height="30" width="40" /></a>
+<a href="mailto:minhazulrikat@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail/D14836" alt="minhazulrikat" height="30" width="40" /></a>
 <a href="https://www.facebook.com/MinhazulRikat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minhazulrikat" height="30" width="40" /></a>
 </p>
 
@@ -62,10 +62,6 @@
 <br/>
 
 ## Featured Projects
-
-[![Book Vibe](https://github-readme-stats.vercel.app/api/pin/?username=minhazulrikat&repo=books-vibe&border_color=58A6FF&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF)](https://github.com/minhazulrikat/books-vibe.git)
-[![DigiTools](https://github-readme-stats.vercel.app/api/pin/?username=minhazulrikat&repo=DigiTools&border_color=58A6FF&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF)](https://github.com/minhazulrikat/DigiTools.git)
-[![GitHub Issue Tracker](https://github-readme-stats.vercel.app/api/pin/?username=minhazulrikat&repo=gitHub-issue-tracker&border_color=58A6FF&bg_color=0D1117&title_color=F0F6FC&text_color=8B949E&icon_color=58A6FF)](https://github.com/minhazulrikat/gitHub-issue-tracker.git)
 
 <p align="left">
   <a href="https://github.com/minhazulrikat?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-58A6FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
