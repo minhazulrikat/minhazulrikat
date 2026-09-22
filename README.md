@@ -81,18 +81,17 @@
 
 <p align="center">
   <a href="https://github.com/minhazulrikat">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhazulrikat&theme=github_dark" alt="Minhazul's GitHub summary"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhazulrikat&theme=radical" alt="Harun's GitHub Contribution"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/minhazulrikat"><img alt="Minhazul's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=minhazulrikat&show_icons=true&count_private=true&theme=dark&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=8B949E" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/minhazulrikat"><img alt="Minhazul's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhazulrikat&langs_count=8&layout=compact&theme=dark&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=8B949E" height="192px" width="49.5%"/></a>
-</p>
+<a> 
+    <a href="https://github.com/minhazulrikat"><img alt="Minhazul's github stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=minhazulrikat&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/minhazulrikat"><img alt="Minhaz's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=minhazulrikat&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhazulrikat&custom_title=Minhazul's%20GitHub%20Activity&bg_color=0D1117&color=58A6FF&line=58A6FF&point=A371F7&area_color=58A6FF&title_color=F0F6FC&area=true" alt="Minhazul's activity graph"/>
-</p>
+![Minhazul's Graph](https://github-readme-activity-graph.vercel.app/graph?username=minhazulrikat&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
