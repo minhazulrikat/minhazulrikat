@@ -91,7 +91,7 @@
 </p>
 
 <p align="center">
-  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=minhazulrikat&custom_title=Minhazul%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Minhazul's activity graph"/>
+  <img src="https://github-readme-activity-graph-delta-ruby.vercel.app/graph?username=minhazulrikat&custom_title=Minhazul%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Minhazul's activity graph"/>
 </p>
 
 <br/>
