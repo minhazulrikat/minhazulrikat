@@ -1,4 +1,4 @@
-![Minhazul Islam Rikat](https://github.com/minhazulrikat/minhazulrikat/blob/main/code.png)
+![Minhazul Islam - Frontend Developer](./github-cover.png)
 
 <h1 align="center">Hi 👋, I'm Minhazul Islam (Rikat)</h1>
 <h3 align="center">Frontend Web Developer | JavaScript • React • Next.js</h3>
