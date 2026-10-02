@@ -19,6 +19,7 @@
 - 📂 All projects are available at [github.com/minhazulrikat](https://github.com/minhazulrikat)
 - 💬 Ask me about **JavaScript, React, Tailwind CSS, REST APIs**
 - 📫 Reach me at **minhazulrikat@gmail.com**
+- ℹ️ Portolio : [minhazul-islam-rikat.vercel.app](https://minhazul-islam-rikat.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 
